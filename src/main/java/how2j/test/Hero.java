@@ -4,6 +4,7 @@ public class Hero {
 	private String name;
 	private Double hq;
 	private int damage;
+	
 	public Hero() {};
 	public Hero(String name, Double hq, int damage) {
 		super();
